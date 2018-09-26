@@ -1,0 +1,8 @@
+This file is a great file that allows the programmer (me) to keep track of things that are to be appended to the project.
+
+1. Fix getting stuck in the things
+2. Add more features
+--change terrain?
+--add front layer
+#learn how to do animation
+#do art
